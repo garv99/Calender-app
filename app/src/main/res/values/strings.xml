@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calender</string>
+    <string name="heading1">EVENTS</string>
+    <string name="btnDescription">button to add events</string>
+    <string name="heading2">ENTER EVENT</string>
+    <string name="heading">Calender</string>
+    <string name="credit">by GARVIK</string>
+</resources>
